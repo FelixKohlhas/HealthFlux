@@ -4,7 +4,7 @@
 
 *Import Apple Health data into InfluxDB*
 
-<img src="" width="75%">
+<img src="https://github.com/FelixKohlhas/HealthFlux/assets/18424307/601ea60e-2b3b-4a2c-9188-1e817cc8b54b" width="75%">
 
 </div>
 
